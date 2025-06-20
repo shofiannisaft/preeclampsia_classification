@@ -1,5 +1,6 @@
 streamlit
 numpy
+pandas
 scikit-learn==1.2.2
 imbalanced-learn==0.10.1
 lightgbm==3.3.5
